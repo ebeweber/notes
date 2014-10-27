@@ -1,0 +1,38 @@
+The Beauty of Data Visualization
+================================
+
+Key points / thoughts taken from the following video:
+http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization
+
+$Billion Dollar Gram
+
+- grabbed numbers from news reports and scaled boxes accordingly
+- easy way to quickly tell different of sizes, gives context
+
+
+Mountains Out of Molehills
+
+- timeline of global media panics by size
+- twin peaks in violence of video games every year (April / November every year)
+- September 2011 there's a gap
+
+
+"data is the new oil"
+
+
+What rises twice a year (Easter and two weeks before Christmas), mini-peak every Monday and flattens out over the summer?
+Breakups according to Facebook status updates
+
+
+Sight takes in the most information.
+Touch takes in the next.
+Sound and Smell.
+
+All of this is pouring in, but we only are aware / process a tiny amount.
+
+
+Viewing data normalized by different things (ex. total soldiers vs. soldiers per capita)
+Relative figures can give a fuller pictures
+
+
+Even if information is terrible the visualization can be quite interesting.
